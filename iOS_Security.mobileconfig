@@ -16,7 +16,7 @@
 			<key>PayloadUUID</key>
 			<string>3FD01C24-3D04-4E06-AF1B-FAFBA0F6B866</string>
 			<key>PayloadVersion</key>
-			<integer>2</integer>
+			<integer>1</integer>
 			<key>allowCloudBackup</key>
 			<false/>
 			<key>allowFingerprintForUnlock</key>
@@ -28,7 +28,7 @@
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
-	<string>iOS Security</string>
+	<string>iOS Security Policy</string>
 	<key>PayloadIdentifier</key>
 	<string>HetingdeMacBook-Pro.6A375AA6-8C9F-4667-ACEC-8380BD3ED670</string>
 	<key>PayloadRemovalDisallowed</key>
@@ -38,6 +38,6 @@
 	<key>PayloadUUID</key>
 	<string>9F3A4CFD-5AD2-45A1-9876-65A3FDA351F4</string>
 	<key>PayloadVersion</key>
-	<integer>2</integer>
+	<integer>1</integer>
 </dict>
 </plist>

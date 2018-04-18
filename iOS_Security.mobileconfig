@@ -19,6 +19,8 @@
 			<integer>1</integer>
 			<key>allowCloudBackup</key>
 			<false/>
+			<key>allowCloudKeychainSync</key>
+			<false/>
 			<key>allowFingerprintForUnlock</key>
 			<false/>
 			<key>allowUntrustedTLSPrompt</key>

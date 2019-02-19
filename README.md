@@ -11,4 +11,6 @@ rdp_certificate_change.md Change the TLS certificate of Windows RDP service
 
 authorized_keys My SSH public keys
 
+medical-report-20190218.csv
+
 news/ 定期新闻精选

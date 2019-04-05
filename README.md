@@ -13,4 +13,6 @@ authorized_keys My SSH public keys
 
 medical-report-20190218.csv
 
+consumerism-is-oppressing-chinese-women 买买买正在毁掉中国女性？ | “当消费主义遇见女权”活动文字精华版 (原创：公众号“米坛埋骨”)
+
 news/ 定期新闻精选

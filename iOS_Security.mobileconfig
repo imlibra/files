@@ -10,7 +10,7 @@
 			<key>PayloadDisplayName</key>
 			<string>访问限制</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.applicationaccess.3FD01C24-3D04-4E06-AF1B-FAFBA0F6B866</string>
+			<string>me.imlibra.ios-security.applicationaccess</string>
 			<key>PayloadType</key>
 			<string>com.apple.applicationaccess</string>
 			<key>PayloadUUID</key>
@@ -32,9 +32,9 @@
 	<key>PayloadDisplayName</key>
 	<string>iOS Security Policy</string>
 	<key>PayloadIdentifier</key>
-	<string>HetingdeMacBook-Pro.6A375AA6-8C9F-4667-ACEC-8380BD3ED670</string>
+	<string>me.imlibra.ios-security</string>
 	<key>PayloadRemovalDisallowed</key>
-	<false/>
+	<true/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>

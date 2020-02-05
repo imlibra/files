@@ -6,9 +6,9 @@
 	<array>
 		<dict>
 			<key>PayloadDescription</key>
-			<string>配置访问限制</string>
+			<string>Security Restriction</string>
 			<key>PayloadDisplayName</key>
-			<string>访问限制</string>
+			<string>Security Restriction</string>
 			<key>PayloadIdentifier</key>
 			<string>me.imlibra.ios-security.applicationaccess</string>
 			<key>PayloadType</key>

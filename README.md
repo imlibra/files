@@ -15,6 +15,8 @@ medical-report-20190218.csv
 
 consumerism-is-oppressing-chinese-women 买买买正在毁掉中国女性？ | “当消费主义遇见女权”活动文字精华版 (原创：公众号“米坛埋骨”)
 
+Mac_Developer_ID.pem My macOS Developer ID Certificate
+
 news/ 定期新闻精选
 
 securerom/ Apple BootROM and SEP dump

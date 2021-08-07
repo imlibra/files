@@ -21,12 +21,12 @@
 			<false/>
 			<key>allowCloudKeychainSync</key>
 			<false/>
-            <key>allowCloudBookmarks</key>
-            <false/>
-            <key>allowCloudPhotoLibrary</key>
-            <false/>
-            <key>allowCloudDesktopAndDocuments</key>
-            <false/>
+			<key>allowCloudBookmarks</key>
+			<false/>
+			<key>allowCloudPhotoLibrary</key>
+			<false/>
+			<key>allowCloudDesktopAndDocuments</key>
+			<false/>
 			<key>allowFingerprintForUnlock</key>
 			<false/>
 			<key>allowUntrustedTLSPrompt</key>
@@ -41,9 +41,9 @@
 	<string>me.imlibra.ios-security</string>
 	<key>PayloadRemovalDisallowed</key>
 	<true/>
-    <key>PayloadScope</key>
-    <string>System</string>
-    <key>PayloadType</key>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
 	<string>9F3A4CFD-5AD2-45A1-9876-65A3FDA351F4</string>

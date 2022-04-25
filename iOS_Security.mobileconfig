@@ -21,8 +21,6 @@
 			<false/>
 			<key>allowCloudKeychainSync</key>
 			<false/>
-			<key>allowCloudBookmarks</key>
-			<false/>
 			<key>allowCloudPhotoLibrary</key>
 			<false/>
 			<key>allowCloudDesktopAndDocuments</key>

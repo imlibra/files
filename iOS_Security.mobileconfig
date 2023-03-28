@@ -6,6 +6,26 @@
 	<array>
 		<dict>
 			<key>PayloadDescription</key>
+			<string>Passcode Policy</string>
+			<key>PayloadDisplayName</key>
+			<string>Passcode Policy</string>
+			<key>PayloadIdentifier</key>
+			<string>me.imlibra.ios-security.passwordpolicy</string>
+			<key>PayloadType</key>
+			<string>com.apple.mobiledevice.passwordpolicy</string>
+			<key>PayloadUUID</key>
+			<string>E1F41ADA-87D2-4021-98EE-DEBB87DD37A4</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>allowSimple</key>
+			<false/>
+			<key>forcePIN</key>
+			<true/>
+			<key>requireAlphanumeric</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>PayloadDescription</key>
 			<string>Security Restriction</string>
 			<key>PayloadDisplayName</key>
 			<string>Security Restriction</string>
@@ -14,12 +34,10 @@
 			<key>PayloadType</key>
 			<string>com.apple.applicationaccess</string>
 			<key>PayloadUUID</key>
-			<string>3FD01C24-3D04-4E06-AF1B-FAFBA0F6B866</string>
+			<string>8D1C0BC5-6196-449F-A9FA-F51DE3CFF597</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>allowCloudBackup</key>
-			<false/>
-			<key>allowCloudKeychainSync</key>
 			<false/>
 			<key>allowCloudPhotoLibrary</key>
 			<false/>
@@ -44,7 +62,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>9F3A4CFD-5AD2-45A1-9876-65A3FDA351F4</string>
+	<string>0C2ABAF5-894D-4216-BDF3-BD3ECF6F207E</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>

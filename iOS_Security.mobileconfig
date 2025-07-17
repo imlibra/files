@@ -43,8 +43,6 @@
 			<false/>
 			<key>allowCloudDesktopAndDocuments</key>
 			<false/>
-			<key>allowFingerprintForUnlock</key>
-			<false/>
 			<key>allowUntrustedTLSPrompt</key>
 			<false/>
 			<key>forceEncryptedBackup</key>
